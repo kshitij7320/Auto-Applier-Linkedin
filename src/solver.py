@@ -101,8 +101,13 @@ class ScreeningSolver:
                 reasoning="Total years of experience fallback"
             )
 
-        # Phone Number
-        if "phone" in text or "mobile" in text:
+        # Phone Country Code (Select dropdown)
+        if question.input_type == InputType.SELECT and any(k in text for k in ["country code", "phone", "mobile"]):
+            code = cand.get("phone_country_code", "United States (+1)")
+            return QuestionSolution(action_type="select", target_value=code, confidence=1.0, reasoning="Candidate phone country code")
+
+        # Phone Number (Text / Numeric input)
+        if ("phone" in text or "mobile" in text) and question.input_type in [InputType.TEXT, InputType.NUMERIC]:
             phone = cand.get("phone_number", "")
             return QuestionSolution(action_type="type", target_value=phone, confidence=1.0, reasoning="Candidate phone")
 

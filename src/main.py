@@ -116,8 +116,14 @@ class ApplicationRunner:
                     await stealth.click_element(easy_apply_btn)
                     await stealth.random_delay(1.5, 2.5)
 
-                    # Run Modal State Machine
-                    result, reason = await navigator.process_easy_apply_modal()
+                    # Run Modal State Machine with error isolation
+                    try:
+                        result, reason = await navigator.process_easy_apply_modal()
+                    except Exception as e:
+                        logger.exception(f"Unexpected error processing modal for {job_id}: {e}")
+                        await navigator.discard_modal()
+                        result = NavigationResult.FAILED
+                        reason = f"Exception: {str(e)}"
 
                     if result == NavigationResult.SUBMITTED:
                         logger.info(f"Successfully applied to {title} ({job_id})!")

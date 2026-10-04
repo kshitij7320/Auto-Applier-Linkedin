@@ -99,12 +99,29 @@ class ModalNavigator:
         elif q.input_type == InputType.SELECT:
             sel = self.page.locator(q.selector).first
             if await sel.count() > 0:
-                matched_val = solution.target_value
+                target_clean = solution.target_value.strip().lower()
+                matched_val = None
+                matched_label = None
                 for opt in q.options:
-                    if opt.label.strip().lower() == solution.target_value.strip().lower() or opt.value.strip().lower() == solution.target_value.strip().lower():
+                    opt_label = opt.label.strip().lower()
+                    opt_val = opt.value.strip().lower()
+                    if opt_label == target_clean or opt_val == target_clean:
                         matched_val = opt.value
+                        matched_label = opt.label.strip()
                         break
-                await sel.select_option(value=matched_val)
+                    elif target_clean in opt_label or target_clean in opt_val:
+                        matched_val = opt.value
+                        matched_label = opt.label.strip()
+
+                try:
+                    if matched_val:
+                        await sel.select_option(value=matched_val, timeout=3000)
+                    elif matched_label:
+                        await sel.select_option(label=matched_label, timeout=3000)
+                    else:
+                        await sel.select_option(label=solution.target_value, timeout=3000)
+                except Exception as e:
+                    logger.warning(f"Could not select option '{solution.target_value}': {e}")
 
         elif q.input_type == InputType.CHECKBOX:
             cb = self.page.locator(q.selector).first

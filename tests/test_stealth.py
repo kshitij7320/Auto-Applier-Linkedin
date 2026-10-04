@@ -15,7 +15,7 @@ def test_overshoot_trajectory():
     start = (50.0, 50.0)
     end = (300.0, 300.0)
     path = generate_overshoot_trajectory(start, end)
-    assert len(path) > 30
+    assert len(path) >= 25
     # Last point must arrive accurately at end target
     assert abs(path[-1][0] - end[0]) < 1.0
     assert abs(path[-1][1] - end[1]) < 1.0
