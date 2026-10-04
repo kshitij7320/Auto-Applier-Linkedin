@@ -58,14 +58,20 @@ class ApplicationRunner:
             await page.goto(search_url, wait_until="domcontentloaded")
             await stealth.random_delay(3.0, 5.0)
 
+            # Check if user is logged into LinkedIn
+            login_form = page.locator("input#username, input#session_key, a.nav__button-secondary:has-text('Sign in')")
+            if await login_form.count() > 0:
+                logger.warning("LinkedIn is currently in a logged-out or authwall state.")
+                logger.info("Please complete sign-in in the open Chrome window so Easy Apply is enabled.")
+
             while stats["applied"] < self.max_applications and consecutive_errors < 3:
-                # Find all job cards on current page
-                job_cards = page.locator(".job-card-container, [data-occludable-job-id]")
+                # Find all job cards on current page (supports both authenticated and public layouts)
+                job_cards = page.locator(".job-card-container, [data-occludable-job-id], ul.jobs-search__results-list li, .base-card, .job-search-card")
                 count = await job_cards.count()
                 logger.info(f"Found {count} job cards on current search page.")
 
                 if count == 0:
-                    logger.warning("No job cards found. Exiting search loop.")
+                    logger.warning("No job cards found. Ensure you are signed in and search results have loaded.")
                     break
 
                 for i in range(count):
@@ -145,8 +151,10 @@ class ApplicationRunner:
                         break
 
         finally:
-            await browser.close()
-            await pw.stop()
+            try:
+                await pw.stop()
+            except Exception:
+                pass
 
         logger.info(f"Session completed: {stats}")
         return stats
