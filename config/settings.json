@@ -1,0 +1,11 @@
+{
+  "cdp_url": "http://localhost:9222",
+  "search_url": "https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Software%20Engineer",
+  "max_applications_per_session": 20,
+  "max_steps_per_modal": 8,
+  "confidence_threshold": 0.85,
+  "action_delay_min_seconds": 1.5,
+  "action_delay_max_seconds": 3.5,
+  "inter_job_delay_min_seconds": 12.0,
+  "inter_job_delay_max_seconds": 25.0
+}

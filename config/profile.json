@@ -1,0 +1,43 @@
+{
+  "candidate": {
+    "first_name": "Kshitij",
+    "last_name": "Himanshu",
+    "phone_country_code": "United States (+1)",
+    "phone_number": "5550192834",
+    "email": "candidate@example.com",
+    "current_city": "San Francisco, CA",
+    "linkedin_url": "https://www.linkedin.com/in/example",
+    "portfolio_url": "https://github.com/example"
+  },
+  "work_authorization": {
+    "us_authorized": "Yes",
+    "require_sponsorship_now_or_future": "No",
+    "security_clearance": "No",
+    "eu_authorized": "No",
+    "canada_authorized": "No"
+  },
+  "experience": {
+    "total_years": 5,
+    "skills": {
+      "Python": 5,
+      "FastAPI": 4,
+      "Docker": 4,
+      "Kubernetes": 3,
+      "SQL": 5,
+      "TypeScript": 3,
+      "React": 3,
+      "AWS": 4,
+      "GCP": 3
+    }
+  },
+  "preferences": {
+    "notice_period_weeks": 2,
+    "salary_expectation_usd": 150000,
+    "willing_to_relocate": "Yes",
+    "comfortable_with_hybrid_or_remote": "Yes"
+  },
+  "llm": {
+    "model": "gemini-2.5-flash",
+    "temperature": 0.1
+  }
+}
