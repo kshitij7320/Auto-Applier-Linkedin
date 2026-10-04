@@ -4,6 +4,10 @@ import logging
 import os
 import sys
 from typing import Dict, Any, Optional
+
+# Ensure project root is in sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from src.db import DatabaseTracker
 from src.stealth import connect_to_cdp, StealthController
 from src.solver import ScreeningSolver
