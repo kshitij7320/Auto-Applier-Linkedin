@@ -6,11 +6,18 @@ from typing import Optional, Dict, Any
 class DatabaseTracker:
     def __init__(self, db_path: str = "storage/tracker.db"):
         self.db_path = db_path
-        parent_dir = os.path.dirname(self.db_path)
-        if parent_dir:
-            os.makedirs(parent_dir, exist_ok=True)
+        self._shared_conn: Optional[sqlite3.Connection] = None
+        if self.db_path == ":memory:":
+            self._shared_conn = sqlite3.connect(":memory:")
+            self._shared_conn.row_factory = sqlite3.Row
+        else:
+            parent_dir = os.path.dirname(self.db_path)
+            if parent_dir:
+                os.makedirs(parent_dir, exist_ok=True)
 
     def _get_connection(self) -> sqlite3.Connection:
+        if self._shared_conn is not None:
+            return self._shared_conn
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
         return conn
