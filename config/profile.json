@@ -2,42 +2,108 @@
   "candidate": {
     "first_name": "Kshitij",
     "last_name": "Himanshu",
-    "phone_country_code": "United States (+1)",
-    "phone_number": "5550192834",
-    "email": "candidate@example.com",
-    "current_city": "San Francisco, CA",
-    "linkedin_url": "https://www.linkedin.com/in/example",
-    "portfolio_url": "https://github.com/example"
+    "phone_country_code": "India (+91)",
+    "phone_number": "8789791324",
+    "email": "kshitij.mern@gmail.com",
+    "current_city": "Noida, Uttar Pradesh, India",
+    "linkedin_url": "https://www.linkedin.com/in/kshitij-himanshu",
+    "portfolio_url": "https://github.com/kshitij7320",
+    "github_url": "https://github.com/kshitij7320"
   },
   "work_authorization": {
-    "us_authorized": "Yes",
+    "us_authorized": "No",
+    "india_authorized": "Yes",
     "require_sponsorship_now_or_future": "No",
     "security_clearance": "No",
     "eu_authorized": "No",
     "canada_authorized": "No"
   },
   "experience": {
-    "total_years": 5,
+    "total_years": 0,
+    "roles": [
+      {
+        "title": "Software Development Engineer Intern",
+        "company": "Coding Club India",
+        "location": "Remote, India",
+        "start_date": "Jan 2026",
+        "end_date": "Present",
+        "skills": [
+          "React.js",
+          "Redux Toolkit",
+          "Express.js",
+          "Node.js",
+          "REST APIs",
+          "GitHub workflows"
+        ]
+      }
+    ],
+    "primary_skills": ["JavaScript", "React.js", "Express.js", "Node.js", "MongoDB"],
+    "secondary_skills": ["Mongoose", "Redis", "REST APIs", "Redux Toolkit", "Tailwind CSS", "Bootstrap", "Material UI", "HTML", "CSS", "Git", "GitHub", "Postman", "Vite", "Axios", "Linux", "SQL", "JWT"],
     "skills": {
-      "Python": 5,
-      "FastAPI": 4,
-      "Docker": 4,
-      "Kubernetes": 3,
-      "SQL": 5,
-      "TypeScript": 3,
-      "React": 3,
-      "AWS": 4,
-      "GCP": 3
+      "React.js": 0,
+      "Node.js": 0,
+      "Express.js": 0,
+      "MongoDB": 0,
+      "JavaScript": 0,
+      "React": 0,
+      "Mongoose": 0,
+      "Redis": 0,
+      "REST APIs": 0,
+      "MERN": 0,
+      "Redux Toolkit": 0,
+      "Tailwind CSS": 0,
+      "Bootstrap": 0,
+      "Material UI": 0,
+      "HTML5": 0,
+      "HTML": 0,
+      "CSS3": 0,
+      "CSS": 0,
+      "Git": 0,
+      "GitHub": 0,
+      "Postman": 0,
+      "Vite": 0,
+      "Axios": 0,
+      "Linux": 0,
+      "SQL": 0,
+      "Python": 0,
+      "JWT": 0
     }
   },
+  "education": {
+    "degree": "Bachelor of Technology",
+    "field_of_study": "Electronics and Communication Engineering",
+    "institution": "GL Bajaj Institute of Technology and Management",
+    "start_year": 2021,
+    "end_year": 2025,
+    "completed": "Yes",
+    "secondary_school": {
+      "qualification": "Senior Secondary (Class XII)",
+      "institution": "R.K. College, Aurangabad",
+      "year": 2021
+    }
+  },
+  "certifications": [
+    "ReactJS – The Complete ReactJS Course for Beginners (2026)",
+    "AI for SQL – AI-Assisted Database Design and SQL Optimization (2026)"
+  ],
+  "achievements": [
+    "Solved 500+ Data Structures and Algorithms (DSA) problems across LeetCode, CodeChef, HackerRank, InterviewBit, and SPOJ"
+  ],
   "preferences": {
-    "notice_period_weeks": 2,
-    "salary_expectation_usd": 150000,
+    "notice_period_weeks": 0,
+    "notice_period_days": 0,
+    "notice_period_text": "Immediate",
+    "current_salary_inr": 0,
+    "salary_expectation_min_inr": 360000,
+    "salary_expectation_max_inr": 400000,
+    "salary_expectation_inr": 360000,
     "willing_to_relocate": "Yes",
-    "comfortable_with_hybrid_or_remote": "Yes"
+    "comfortable_with_hybrid_or_remote": "Yes",
+    "work_from_office": "Yes",
+    "start_immediately": "Yes"
   },
   "llm": {
-    "model": "gemini-2.5-flash",
+    "model": "gemini-3.8-flash",
     "temperature": 0.1
   }
 }

@@ -92,10 +92,17 @@ class StealthController:
 
     async def click_element(self, locator_or_selector: Union[str, Locator]) -> None:
         locator = locator_or_selector if isinstance(locator_or_selector, Locator) else self.page.locator(locator_or_selector)
-        await locator.scroll_into_view_if_needed()
-        box = await locator.bounding_box()
-        if not box:
-            raise RuntimeError(f"Element bounding box is null or element is hidden: {locator_or_selector}")
+        try:
+            await locator.scroll_into_view_if_needed(timeout=4000)
+        except Exception:
+            pass
+        try:
+            box = await locator.bounding_box(timeout=2000)
+        except Exception:
+            box = None
+        if not box or box["width"] < 2 or box["height"] < 2:
+            await locator.click(timeout=4000, force=True)
+            return
 
         # Pick random coordinate within padding boundaries
         pad_x = max(2.0, min(box["width"] * 0.2, 10.0))
@@ -142,5 +149,17 @@ async def connect_to_cdp(endpoint_url: str = "http://localhost:9222") -> Tuple[P
         raise RuntimeError("No active browser context found via CDP.")
     context = contexts[0]
     pages = context.pages
-    page = pages[0] if pages else await context.new_page()
+    page = None
+    for candidate in pages:
+        url = candidate.url or ""
+        if "linkedin.com/jobs" in url:
+            page = candidate
+            break
+    if page is None:
+        for candidate in pages:
+            if "linkedin.com" in (candidate.url or ""):
+                page = candidate
+                break
+    if page is None:
+        page = pages[0] if pages else await context.new_page()
     return pw, browser, page

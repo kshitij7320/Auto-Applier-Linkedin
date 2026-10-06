@@ -1,0 +1,1767 @@
+{
+  "Email address": {
+    "question_text": "Email address",
+    "input_type": "select",
+    "options": [
+      "kshitij.mern@gmail.com",
+      "kshitij.himanshu.fullstack@gmail.com"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Frontend Intern- Web+Mobile",
+      "Software Engineer (Front and Back end)",
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice",
+      "Frontend Engineering Intern",
+      "Frontend Developer intern"
+    ],
+    "answer": "kshitij.mern@gmail.com",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate email"
+  },
+  "Phone country code": {
+    "question_text": "Phone country code",
+    "input_type": "select",
+    "options": [
+      "India (+91)",
+      "United States (+1)",
+      "United Kingdom (+44)",
+      "Canada (+1)",
+      "Afghanistan (+93)",
+      "Albania (+355)",
+      "Algeria (+213)",
+      "American Samoa (+1)",
+      "Andorra (+376)",
+      "Angola (+244)",
+      "Anguilla (+1)",
+      "Antarctica (+0)",
+      "Antigua & Barbuda (+1)",
+      "Argentina (+54)",
+      "Armenia (+374)",
+      "Aruba (+297)",
+      "Australia (+61)",
+      "Austria (+43)",
+      "Azerbaijan (+994)",
+      "Bahamas (+1)",
+      "Bahrain (+973)",
+      "Bangladesh (+880)",
+      "Barbados (+1)",
+      "Belarus (+375)",
+      "Belgium (+32)",
+      "Belize (+501)",
+      "Benin (+229)",
+      "Bermuda (+1)",
+      "Bhutan (+975)",
+      "Bolivia (+591)",
+      "Bosnia & Herzegovina (+387)",
+      "Botswana (+267)",
+      "Bouvet Island (+0)",
+      "Brazil (+55)",
+      "British Indian Ocean Territory (+246)",
+      "British Virgin Islands (+1)",
+      "Brunei (+673)",
+      "Bulgaria (+359)",
+      "Burkina Faso (+226)",
+      "Burundi (+257)",
+      "Cambodia (+855)",
+      "Cameroon (+237)",
+      "Cape Verde (+238)",
+      "Caribbean Netherlands (+599)",
+      "Cayman Islands (+1)",
+      "Central African Republic (+236)",
+      "Chad (+235)",
+      "Chile (+56)",
+      "China (+86)",
+      "Christmas Island (+61)",
+      "Cocos (Keeling) Islands (+61)",
+      "Colombia (+57)",
+      "Comoros (+269)",
+      "Congo - Brazzaville (+242)",
+      "Congo - Kinshasa (+243)",
+      "Cook Islands (+682)",
+      "Costa Rica (+506)",
+      "Croatia (+385)",
+      "Cuba (+53)",
+      "Curaçao (+599)",
+      "Cyprus (+357)",
+      "Czechia (+420)",
+      "Côte d’Ivoire (+225)",
+      "Denmark (+45)",
+      "Djibouti (+253)",
+      "Dominica (+1)",
+      "Dominican Republic (+1)",
+      "Ecuador (+593)",
+      "Egypt (+20)",
+      "El Salvador (+503)",
+      "Equatorial Guinea (+240)",
+      "Eritrea (+291)",
+      "Estonia (+372)",
+      "Eswatini (+268)",
+      "Ethiopia (+251)",
+      "Falkland Islands (+500)",
+      "Faroe Islands (+298)",
+      "Fiji (+679)",
+      "Finland (+358)",
+      "France (+33)",
+      "French Guiana (+594)",
+      "French Polynesia (+689)",
+      "French Southern Territories (+0)",
+      "Gabon (+241)",
+      "Gambia (+220)",
+      "Georgia (+995)",
+      "Germany (+49)",
+      "Ghana (+233)",
+      "Gibraltar (+350)",
+      "Greece (+30)",
+      "Greenland (+299)",
+      "Grenada (+1)",
+      "Guadeloupe (+590)",
+      "Guam (+1)",
+      "Guatemala (+502)",
+      "Guernsey (+44)",
+      "Guinea (+224)",
+      "Guinea-Bissau (+245)",
+      "Guyana (+592)",
+      "Haiti (+509)",
+      "Heard & McDonald Islands (+0)",
+      "Honduras (+504)",
+      "Hong Kong SAR China (+852)",
+      "Hungary (+36)",
+      "Iceland (+354)",
+      "Indonesia (+62)",
+      "Iran (+98)",
+      "Iraq (+964)",
+      "Ireland (+353)",
+      "Isle of Man (+44)",
+      "Israel (+972)",
+      "Italy (+39)",
+      "Jamaica (+1)",
+      "Japan (+81)",
+      "Jersey (+44)",
+      "Jordan (+962)",
+      "Kazakhstan (+7)",
+      "Kenya (+254)",
+      "Kiribati (+686)",
+      "Kuwait (+965)",
+      "Kyrgyzstan (+996)",
+      "Laos (+856)",
+      "Latvia (+371)",
+      "Lebanon (+961)",
+      "Lesotho (+266)",
+      "Liberia (+231)",
+      "Libya (+218)",
+      "Liechtenstein (+423)",
+      "Lithuania (+370)",
+      "Luxembourg (+352)",
+      "Macao SAR China (+853)",
+      "Madagascar (+261)",
+      "Malawi (+265)",
+      "Malaysia (+60)",
+      "Maldives (+960)",
+      "Mali (+223)",
+      "Malta (+356)",
+      "Marshall Islands (+692)",
+      "Martinique (+596)",
+      "Mauritania (+222)",
+      "Mauritius (+230)",
+      "Mayotte (+262)",
+      "Mexico (+52)",
+      "Micronesia (+691)",
+      "Moldova (+373)",
+      "Monaco (+377)",
+      "Mongolia (+976)",
+      "Montenegro (+382)",
+      "Montserrat (+1)",
+      "Morocco (+212)",
+      "Mozambique (+258)",
+      "Myanmar (Burma) (+95)",
+      "Namibia (+264)",
+      "Nauru (+674)",
+      "Nepal (+977)",
+      "Netherlands (+31)",
+      "New Caledonia (+687)",
+      "New Zealand (+64)",
+      "Nicaragua (+505)",
+      "Niger (+227)",
+      "Nigeria (+234)",
+      "Niue (+683)",
+      "Norfolk Island (+672)",
+      "North Korea (+850)",
+      "North Macedonia (+389)",
+      "Northern Mariana Islands (+1)",
+      "Norway (+47)",
+      "Oman (+968)",
+      "Pakistan (+92)",
+      "Palau (+680)",
+      "Palestinian Territories (+970)",
+      "Panama (+507)",
+      "Papua New Guinea (+675)",
+      "Paraguay (+595)",
+      "Peru (+51)",
+      "Philippines (+63)",
+      "Pitcairn Islands (+0)",
+      "Poland (+48)",
+      "Portugal (+351)",
+      "Puerto Rico (+1)",
+      "Qatar (+974)",
+      "Romania (+40)",
+      "Russia (+7)",
+      "Rwanda (+250)",
+      "Réunion (+262)",
+      "Samoa (+685)",
+      "San Marino (+378)",
+      "Saudi Arabia (+966)",
+      "Senegal (+221)",
+      "Serbia (+381)",
+      "Seychelles (+248)",
+      "Sierra Leone (+232)",
+      "Singapore (+65)",
+      "Sint Maarten (+1)",
+      "Slovakia (+421)",
+      "Slovenia (+386)",
+      "Solomon Islands (+677)",
+      "Somalia (+252)",
+      "South Africa (+27)",
+      "South Georgia & South Sandwich Islands (+0)",
+      "South Korea (+82)",
+      "South Sudan (+211)",
+      "Spain (+34)",
+      "Sri Lanka (+94)",
+      "St. Barthélemy (+590)",
+      "St. Helena (+290)",
+      "St. Kitts & Nevis (+1)",
+      "St. Lucia (+1)",
+      "St. Martin (+590)",
+      "St. Pierre & Miquelon (+508)",
+      "St. Vincent & Grenadines (+1)",
+      "Sudan (+249)",
+      "Suriname (+597)",
+      "Svalbard & Jan Mayen (+47)",
+      "Sweden (+46)",
+      "Switzerland (+41)",
+      "Syria (+963)",
+      "São Tomé & Príncipe (+239)",
+      "Taiwan (+886)",
+      "Tajikistan (+992)",
+      "Tanzania (+255)",
+      "Thailand (+66)",
+      "Timor-Leste (+670)",
+      "Togo (+228)",
+      "Tokelau (+690)",
+      "Tonga (+676)",
+      "Trinidad & Tobago (+1)",
+      "Tunisia (+216)",
+      "Turkey (+90)",
+      "Turkmenistan (+993)",
+      "Turks & Caicos Islands (+1)",
+      "Tuvalu (+688)",
+      "U.S. Outlying Islands (+0)",
+      "U.S. Virgin Islands (+1)",
+      "Uganda (+256)",
+      "Ukraine (+380)",
+      "United Arab Emirates (+971)",
+      "Uruguay (+598)",
+      "Uzbekistan (+998)",
+      "Vanuatu (+678)",
+      "Vatican City (+39)",
+      "Venezuela (+58)",
+      "Vietnam (+84)",
+      "Wallis & Futuna (+681)",
+      "Western Sahara (+212)",
+      "Yemen (+967)",
+      "Zambia (+260)",
+      "Åland Islands (+358)",
+      "Zimbabwe (+263)"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Frontend Intern- Web+Mobile",
+      "Software Engineer (Front and Back end)",
+      "Full Stack Developer",
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice",
+      "Frontend Engineering Intern",
+      "Full Stack Engineer",
+      "Frontend Developer intern"
+    ],
+    "answer": "India (+91)",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate phone country code"
+  },
+  "Mobile phone number": {
+    "question_text": "Mobile phone number",
+    "input_type": "text",
+    "options": [],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Frontend Intern- Web+Mobile",
+      "Software Engineer (Front and Back end)",
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice",
+      "Frontend Engineering Intern"
+    ],
+    "answer": "8789791324",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate phone"
+  },
+  "Mark job as a top choice": {
+    "question_text": "Mark job as a top choice",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Frontend Intern- Web+Mobile",
+      "Software Engineer (Front and Back end)",
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave top choice unchecked so LinkedIn does not require an extra message"
+  },
+  "Are you comfortable working in an onsite setting?": {
+    "question_text": "Are you comfortable working in an onsite setting?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Frontend Intern- Web+Mobile"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Work from office match"
+  },
+  "We must fill this position urgently. Can you start immediately?": {
+    "question_text": "We must fill this position urgently. Can you start immediately?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack and Applied-AI Engineer",
+      "question catalog",
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice",
+      "Frontend Intern- Web+Mobile",
+      "Java Full Stack Developer Intern"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Immediate start preference"
+  },
+  "First name": {
+    "question_text": "First name",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog",
+      "Software Engineer (Front and Back end)"
+    ],
+    "answer": "Kshitij",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate first name"
+  },
+  "Last name": {
+    "question_text": "Last name",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog",
+      "Software Engineer (Front and Back end)"
+    ],
+    "answer": "Himanshu",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate last name"
+  },
+  "City": {
+    "question_text": "City",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Noida, Uttar Pradesh, India",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate city match"
+  },
+  "Location (city)": {
+    "question_text": "Location (city)",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Noida, Uttar Pradesh, India",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate city match"
+  },
+  "LinkedIn profile URL": {
+    "question_text": "LinkedIn profile URL",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "https://www.linkedin.com/in/kshitij-himanshu",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate LinkedIn URL"
+  },
+  "GitHub URL": {
+    "question_text": "GitHub URL",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "https://github.com/kshitij7320",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate GitHub or portfolio URL"
+  },
+  "Portfolio URL": {
+    "question_text": "Portfolio URL",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "https://github.com/kshitij7320",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate portfolio URL"
+  },
+  "Website": {
+    "question_text": "Website",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "https://github.com/kshitij7320",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate portfolio URL"
+  },
+  "Are you legally authorized to work in India?": {
+    "question_text": "Are you legally authorized to work in India?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "India work authorization match"
+  },
+  "Are you legally authorized to work in the United States?": {
+    "question_text": "Are you legally authorized to work in the United States?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "No",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "US work authorization match"
+  },
+  "Will you now or in the future require sponsorship for employment visa status?": {
+    "question_text": "Will you now or in the future require sponsorship for employment visa status?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "No",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Sponsorship preference match"
+  },
+  "Do you have an active security clearance?": {
+    "question_text": "Do you have an active security clearance?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "No",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Security clearance profile match"
+  },
+  "Are you comfortable working from the office?": {
+    "question_text": "Are you comfortable working from the office?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Work from office match"
+  },
+  "Are you comfortable with hybrid work?": {
+    "question_text": "Are you comfortable with hybrid work?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Hybrid work preference"
+  },
+  "Are you willing to relocate?": {
+    "question_text": "Are you willing to relocate?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Commute / Relocation match"
+  },
+  "Can you join immediately?": {
+    "question_text": "Can you join immediately?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Immediate start preference"
+  },
+  "What is your notice period?": {
+    "question_text": "What is your notice period?",
+    "input_type": "select",
+    "options": [
+      "Immediate",
+      "15 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Immediate",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Notice period option match"
+  },
+  "How many years of work experience do you have?": {
+    "question_text": "How many years of work experience do you have?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for total experience"
+  },
+  "How many years of work experience do you have with JavaScript?": {
+    "question_text": "How many years of work experience do you have with JavaScript?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for JavaScript"
+  },
+  "How many years of work experience do you have with React?": {
+    "question_text": "How many years of work experience do you have with React?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for React"
+  },
+  "How many years of work experience do you have with React.js?": {
+    "question_text": "How many years of work experience do you have with React.js?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for React.js"
+  },
+  "How many years of work experience do you have with Node.js?": {
+    "question_text": "How many years of work experience do you have with Node.js?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for Node.js"
+  },
+  "How many years of work experience do you have with Express.js?": {
+    "question_text": "How many years of work experience do you have with Express.js?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for Express.js"
+  },
+  "How many years of work experience do you have with MongoDB?": {
+    "question_text": "How many years of work experience do you have with MongoDB?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for MongoDB"
+  },
+  "How many years of work experience do you have with Python?": {
+    "question_text": "How many years of work experience do you have with Python?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for Python"
+  },
+  "How many years of work experience do you have with SQL?": {
+    "question_text": "How many years of work experience do you have with SQL?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for SQL"
+  },
+  "How many years of work experience do you have with HTML?": {
+    "question_text": "How many years of work experience do you have with HTML?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for HTML"
+  },
+  "How many years of work experience do you have with CSS?": {
+    "question_text": "How many years of work experience do you have with CSS?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for CSS"
+  },
+  "How many years of work experience do you have with Git?": {
+    "question_text": "How many years of work experience do you have with Git?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for Git"
+  },
+  "Expected CTC": {
+    "question_text": "Expected CTC",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "360000",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Expected salary is 360000 to 400000"
+  },
+  "Current CTC": {
+    "question_text": "Current CTC",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Current salary is 0"
+  },
+  "What is your expected salary?": {
+    "question_text": "What is your expected salary?",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "360000",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Expected salary is 360000 to 400000"
+  },
+  "Do you have a bachelor's degree?": {
+    "question_text": "Do you have a bachelor's degree?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Degree completion"
+  },
+  "What is your highest level of education?": {
+    "question_text": "What is your highest level of education?",
+    "input_type": "select",
+    "options": [
+      "High school",
+      "Bachelor's degree",
+      "Master's degree",
+      "Doctorate"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Bachelor's degree",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Highest education from profile"
+  },
+  "University": {
+    "question_text": "University",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "GL Bajaj Institute of Technology and Management",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Education institution"
+  },
+  "College name": {
+    "question_text": "College name",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "GL Bajaj Institute of Technology and Management",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Education institution"
+  },
+  "Field of study": {
+    "question_text": "Field of study",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Electronics and Communication Engineering",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Field of study"
+  },
+  "Graduation year": {
+    "question_text": "Graduation year",
+    "input_type": "numeric",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "2025",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Graduation year from profile"
+  },
+  "Current job title": {
+    "question_text": "Current job title",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Software Development Engineer Intern",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Current role title"
+  },
+  "Current company": {
+    "question_text": "Current company",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Coding Club India",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Current employer"
+  },
+  "How did you hear about this job?": {
+    "question_text": "How did you hear about this job?",
+    "input_type": "select",
+    "options": [
+      "LinkedIn",
+      "Company website",
+      "Referral",
+      "Other"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "LinkedIn",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Heard about the role on LinkedIn"
+  },
+  "Are you at least 18 years of age?": {
+    "question_text": "Are you at least 18 years of age?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Legal working age"
+  },
+  "Are you comfortable communicating in English?": {
+    "question_text": "Are you comfortable communicating in English?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 0.92,
+    "covered": true,
+    "reasoning": "Positive screening qualification default"
+  },
+  "Are you willing to undergo a background check?": {
+    "question_text": "Are you willing to undergo a background check?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Background check match"
+  },
+  "Gender": {
+    "question_text": "Gender",
+    "input_type": "select",
+    "options": [
+      "Male",
+      "Female",
+      "Decline to self-identify"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Decline to self-identify",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Decline voluntary self-identification"
+  },
+  "Veteran status": {
+    "question_text": "Veteran status",
+    "input_type": "select",
+    "options": [
+      "I am not a protected veteran",
+      "Decline to self-identify"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Decline to self-identify",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Decline voluntary self-identification"
+  },
+  "Disability status": {
+    "question_text": "Disability status",
+    "input_type": "select",
+    "options": [
+      "No, I do not have a disability",
+      "Yes, I have a disability",
+      "Decline to self-identify"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Decline to self-identify",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Decline voluntary self-identification"
+  },
+  "Message to the hiring manager": {
+    "question_text": "Message to the hiring manager",
+    "input_type": "textarea",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Hi, I am Kshitij Himanshu, a Software Development Engineer with hands-on experience in full-stack web development using React.js, Node.js, Express.js, MongoDB, and Redis. I am an immediate joiner eager to contribute to your team.",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate tailored message"
+  },
+  "Cover letter": {
+    "question_text": "Cover letter",
+    "input_type": "textarea",
+    "is_required": false,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "Hi, I am Kshitij Himanshu, a Software Development Engineer with hands-on experience in full-stack web development using React.js, Node.js, Express.js, MongoDB, and Redis. I am an immediate joiner eager to contribute to your team.",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate tailored message"
+  },
+  "I agree to the terms and conditions": {
+    "question_text": "I agree to the terms and conditions",
+    "input_type": "checkbox",
+    "is_required": true,
+    "seen_in_jobs": [
+      "question catalog"
+    ],
+    "answer": "true",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Consent agreement checkbox"
+  },
+  "Email": {
+    "question_text": "Email",
+    "input_type": "select",
+    "options": [
+      "kshitij.mern@gmail.com",
+      "kshitij.himanshu.fullstack@gmail.com"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Developer",
+      "Full Stack Engineer"
+    ],
+    "answer": "kshitij.mern@gmail.com",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate email"
+  },
+  "Mark job as a top choice job": {
+    "question_text": "Mark job as a top choice job",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack Developer",
+      "Full Stack Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave top choice unchecked so LinkedIn does not require an extra message"
+  },
+  "Phone": {
+    "question_text": "Phone",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Developer",
+      "Full Stack Engineer"
+    ],
+    "answer": "8789791324",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate phone"
+  },
+  "What is your current location?": {
+    "question_text": "What is your current location?",
+    "input_type": "text",
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer (Front and Back end)"
+    ],
+    "answer": "Noida, Uttar Pradesh, India",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate city match"
+  },
+  "Follow Saatvik Agro to stay up to date with their page.": {
+    "question_text": "Follow Saatvik Agro to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Associate (Python) Software Engineer",
+      "Software Engineer Apprentice"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you comfortable commuting to this job's location?": {
+    "question_text": "Are you comfortable commuting to this job's location?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Frontend Intern- Web+Mobile"
+    ],
+    "answer": "Yes",
+    "confidence": 0.92,
+    "covered": true,
+    "reasoning": "Positive screening qualification default"
+  },
+  "Follow EMotorad to stay up to date with their page.": {
+    "question_text": "Follow EMotorad to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Frontend Intern- Web+Mobile"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow Team Unibrains to stay up to date with their page.": {
+    "question_text": "Follow Team Unibrains to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Include a message with your application": {
+    "question_text": "Include a message with your application",
+    "input_type": "textarea",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Frontend Developer intern"
+    ],
+    "answer": "Hi, I am Kshitij Himanshu, a Software Development Engineer with hands-on experience in full-stack web development using React.js, Node.js, Express.js, MongoDB, and Redis. I am an immediate joiner eager to contribute to your team.",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate tailored message"
+  },
+  "Have you completed the following level of education: Bachelor's Degree?": {
+    "question_text": "Have you completed the following level of education: Bachelor's Degree?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Frontend Developer intern"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Degree completion"
+  },
+  "Follow Meritshot to stay up to date with their page.": {
+    "question_text": "Follow Meritshot to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Frontend Developer intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow Taxplan Advisor to stay up to date with their page.": {
+    "question_text": "Follow Taxplan Advisor to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack Developer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Message the employer": {
+    "question_text": "Message the employer",
+    "input_type": "textarea",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Developer"
+    ],
+    "answer": "Hi, I am Kshitij Himanshu, a Software Development Engineer with hands-on experience in full-stack web development using React.js, Node.js, Express.js, MongoDB, and Redis. I am an immediate joiner eager to contribute to your team.",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate tailored message"
+  },
+  "Are you comfortable working in a remote setting?": {
+    "question_text": "Are you comfortable working in a remote setting?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Developer Intern"
+    ],
+    "answer": "Yes",
+    "confidence": 0.92,
+    "covered": true,
+    "reasoning": "Positive screening qualification default"
+  },
+  "Follow us for more insights about your work project https://www.linkedin.com/company/kaushalsaathi/": {
+    "question_text": "Follow us for more insights about your work project https://www.linkedin.com/company/kaushalsaathi/",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Developer Intern"
+    ],
+    "answer": "https://www.linkedin.com/in/kshitij-himanshu",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate LinkedIn URL"
+  },
+  "Follow kaushalsaathi to stay up to date with their page.": {
+    "question_text": "Follow kaushalsaathi to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack Developer Intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you willing to take a drug test, in accordance with local law/regulations?": {
+    "question_text": "Are you willing to take a drug test, in accordance with local law/regulations?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Engineer"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Background check match"
+  },
+  "Do you have a valid driver's license?": {
+    "question_text": "Do you have a valid driver's license?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Engineer"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Driver's license match"
+  },
+  "Follow Brahmaverse AI to stay up to date with their page.": {
+    "question_text": "Follow Brahmaverse AI to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Full Stack Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow Intact India to stay up to date with their page.": {
+    "question_text": "Follow Intact India to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer Apprentice"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you interested in an unpaid internship?": {
+    "question_text": "Are you interested in an unpaid internship?",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "WordPress Web Developer Intern"
+    ],
+    "answer": "No",
+    "confidence": 0.85,
+    "covered": true,
+    "reasoning": "The candidate has a stated salary expectation of 500,000 INR (or 60,000 USD) and has completed their degree, indicating they are seeking paid opportunities rather than unpaid internships."
+  },
+  "Follow Eve100 to stay up to date with their page.": {
+    "question_text": "Follow Eve100 to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "WordPress Web Developer Intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Total IT experience ?": {
+    "question_text": "Total IT experience ?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Full Stack Engineer"
+    ],
+    "answer": "",
+    "confidence": 0.0,
+    "covered": false,
+    "reasoning": "LLM resolution failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  "How many years of experience in total?": {
+    "question_text": "How many years of experience in total?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Java Software Engineer"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for total experience"
+  },
+  "Follow Intellicredence Pvt. Ltd. to stay up to date with their page.": {
+    "question_text": "Follow Intellicredence Pvt. Ltd. to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Java Software Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "What is your current notice period? (Please mention the number of days.)": {
+    "question_text": "What is your current notice period? (Please mention the number of days.)",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Software Engineer Intern"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Notice period preference"
+  },
+  "What is your current CTC/package? Please mention the amount in LPA.": {
+    "question_text": "What is your current CTC/package? Please mention the amount in LPA.",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Software Engineer Intern"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Current salary is 0"
+  },
+  "Follow Wavexcel to stay up to date with their page.": {
+    "question_text": "Follow Wavexcel to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer Intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you currently based in Jaipur and available to attend 1 to 2 in-person meetings when Required?": {
+    "question_text": "Are you currently based in Jaipur and available to attend 1 to 2 in-person meetings when Required?",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer & AI Automation Intern"
+    ],
+    "answer": "",
+    "confidence": 0.0,
+    "covered": false,
+    "reasoning": "LLM resolution failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  "Follow YAE Services to stay up to date with their page.": {
+    "question_text": "Follow YAE Services to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Java Software Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow AI Vidya to stay up to date with their page.": {
+    "question_text": "Follow AI Vidya to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow CXO Inc to stay up to date with their page.": {
+    "question_text": "Follow CXO Inc to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Follow RiVirtual Inc to stay up to date with their page.": {
+    "question_text": "Follow RiVirtual Inc to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Software Engineer"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Current CTC?": {
+    "question_text": "Current CTC?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Current salary is 0"
+  },
+  "Expected CTC?": {
+    "question_text": "Expected CTC?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer"
+    ],
+    "answer": "360000 to 400000",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Expected salary is 360000 to 400000"
+  },
+  "Notice Period?": {
+    "question_text": "Notice Period?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Notice period preference"
+  },
+  "Experience in Webflow?": {
+    "question_text": "Experience in Webflow?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer"
+    ],
+    "answer": "",
+    "confidence": 0.0,
+    "covered": false,
+    "reasoning": "LLM resolution failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  "Follow us on projects you may work LinkedIn https://www.linkedin.com/company/sunsystechsol-pvt-ltd/": {
+    "question_text": "Follow us on projects you may work LinkedIn https://www.linkedin.com/company/sunsystechsol-pvt-ltd/",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Developer Intern"
+    ],
+    "answer": "https://www.linkedin.com/in/kshitij-himanshu",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate LinkedIn URL"
+  },
+  "Follow SunsysTechsol Pvt. Ltd. to stay up to date with their page.": {
+    "question_text": "Follow SunsysTechsol Pvt. Ltd. to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Web Developer Intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you willing to undergo a background check, in accordance with local law/regulations?": {
+    "question_text": "Are you willing to undergo a background check, in accordance with local law/regulations?",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "Java Full Stack Developer Intern"
+    ],
+    "answer": "Yes",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Background check match"
+  },
+  "How many years of experience do you have in Spring.": {
+    "question_text": "How many years of experience do you have in Spring.",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Java Full Stack Developer Intern"
+    ],
+    "answer": "0",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Fresher experience match for total experience"
+  },
+  "What was your previous stipend?": {
+    "question_text": "What was your previous stipend?",
+    "input_type": "text",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Java Full Stack Developer Intern"
+    ],
+    "answer": "",
+    "confidence": 0.0,
+    "covered": false,
+    "reasoning": "LLM resolution failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  "This is an unpaid internship. Are you still interested in applying? (If you are not interested, please leave this application. You're welcome to apply for suitable paid openings with us in the future)": {
+    "question_text": "This is an unpaid internship. Are you still interested in applying? (If you are not interested, please leave this application. You're welcome to apply for suitable paid openings with us in the future)",
+    "input_type": "select",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": true,
+    "seen_in_jobs": [
+      "React Native Mobile Developer (Fresher)"
+    ],
+    "answer": "",
+    "confidence": 0.0,
+    "covered": false,
+    "reasoning": "LLM resolution failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  "Get email updates for the latest retail solutions consultant jobs in Bengaluru, Karnataka": {
+    "question_text": "Get email updates for the latest retail solutions consultant jobs in Bengaluru, Karnataka",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Linux Solution Consultant"
+    ],
+    "answer": "kshitij.mern@gmail.com",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate email"
+  },
+  "Follow nystartx to stay up to date with their page.": {
+    "question_text": "Follow nystartx to stay up to date with their page.",
+    "input_type": "checkbox",
+    "options": [
+      "checked",
+      "unchecked"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "MERN Stack Developer Intern"
+    ],
+    "answer": "false",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Leave optional follow unchecked"
+  },
+  "Are you available to work during EST hours, 9 AM to 4 PM (6:30 PM to 2:30 AM IST)?": {
+    "question_text": "Are you available to work during EST hours, 9 AM to 4 PM (6:30 PM to 2:30 AM IST)?",
+    "input_type": "radio",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "is_required": false,
+    "seen_in_jobs": [
+      "Web Development"
+    ],
+    "answer": "Yes",
+    "confidence": 0.92,
+    "covered": true,
+    "reasoning": "Positive screening qualification default"
+  },
+  "Which AI tools are you familiar with to help with website development?": {
+    "question_text": "Which AI tools are you familiar with to help with website development?",
+    "input_type": "textarea",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Development"
+    ],
+    "answer": "Hi, I am Kshitij Himanshu, a Software Development Engineer with hands-on experience in full-stack web development using React.js, Node.js, Express.js, MongoDB, and Redis. I am an immediate joiner eager to contribute to your team.",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate tailored message"
+  },
+  "Please share a link to your portfolio/work samples for Web Development.": {
+    "question_text": "Please share a link to your portfolio/work samples for Web Development.",
+    "input_type": "textarea",
+    "is_required": true,
+    "seen_in_jobs": [
+      "Web Development"
+    ],
+    "answer": "https://github.com/kshitij7320",
+    "confidence": 1.0,
+    "covered": true,
+    "reasoning": "Candidate portfolio URL"
+  }
+}

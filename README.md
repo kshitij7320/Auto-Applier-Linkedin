@@ -136,6 +136,18 @@ source .venv/bin/activate
 python src/main.py
 ```
 
+Indeed uses the same Chrome window. Sign in at [in.indeed.com](https://in.indeed.com) first, then:
+
+```bash
+.venv/bin/python src/indeed_main.py
+```
+
+Internshala uses the same Chrome window. Sign in at [internshala.com](https://internshala.com) first, then:
+
+```bash
+.venv/bin/python src/internshala_main.py
+```
+
 ### Operational Circuit Breakers
 - **Hard Application Cap**: Stops immediately upon reaching 20 submitted applications in the session.
 - **Duplicate Suppression**: Queries `storage/tracker.db` prior to clicking any job card. If already applied, the job card is skipped.

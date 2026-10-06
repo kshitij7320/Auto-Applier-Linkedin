@@ -1,0 +1,35 @@
+{
+  "candidate": {
+    "first_name": "Test",
+    "last_name": "Candidate",
+    "phone_country_code": "United States (+1)",
+    "phone_number": "1234567890",
+    "email": "test@example.com",
+    "current_city": "New York, NY",
+    "linkedin_url": "https://linkedin.com/in/test",
+    "portfolio_url": "https://test.dev"
+  },
+  "work_authorization": {
+    "us_authorized": "Yes",
+    "india_authorized": "Yes",
+    "require_sponsorship_now_or_future": "No",
+    "security_clearance": "No",
+    "eu_authorized": "No",
+    "canada_authorized": "No"
+  },
+  "experience": {
+    "total_years": 5,
+    "skills": {
+      "Python": 5,
+      "React.js": 3
+    }
+  },
+  "preferences": {
+    "notice_period_weeks": 2,
+    "salary_expectation_inr": 800000,
+    "salary_expectation_usd": 75000,
+    "willing_to_relocate": "Yes",
+    "comfortable_with_hybrid_or_remote": "Yes",
+    "work_from_office": "Yes"
+  }
+}

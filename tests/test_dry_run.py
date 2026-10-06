@@ -15,7 +15,7 @@ async def test_full_pipeline_dry_run():
 
     db = DatabaseTracker(db_path)
     db.init_db()
-    solver = ScreeningSolver(profile_path="config/profile.json", db_tracker=db)
+    solver = ScreeningSolver(profile_path="tests/fixtures/mock_profile.json", db_tracker=db)
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
